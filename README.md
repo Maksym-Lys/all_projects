@@ -1,6 +1,6 @@
 # Projects
 
-This repository contain my published machine learning and data sciense projects along with their corresponding links.
+This repository contains my published machine learning and data science projects along with their corresponding links.
 
 ### Diabetes Prediction
 
