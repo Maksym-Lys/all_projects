@@ -11,3 +11,8 @@ This repository contains my published machine learning and data science projects
 
 - **GitHub Link**: [pneumonia prediction](https://github.com/Maksym-Lys/all_projects/tree/main/x_ray_project)
 - **Huggingface Link**: [deployed pneumonia prediction model](https://huggingface.co/spaces/Maksym-Lys/X_ray_project)
+
+### IMDb sentimental Prediction
+
+- **GitHub Link**: [IMDb sentimental prediction](https://github.com/Maksym-Lys/all_projects/tree/main/imdb_project)
+- **Huggingface Link**: [deployed IMDb sentimental prediction model](https://huggingface.co/spaces/Maksym-Lys/IMDb_sentimental_analysis)
